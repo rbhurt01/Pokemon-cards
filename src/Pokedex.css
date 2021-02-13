@@ -1,0 +1,22 @@
+.pokedex {
+  text-align: center;
+  border: 3.6px solid rgb(236, 176, 8);
+  width: 70%;
+  padding: 2px;
+  margin: 7% 15%;
+  box-shadow: -7px 7px 12px -5px rgb(63, 20, 221);
+  background: rgb(243, 222, 225);
+}
+
+.pokedex-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.Winning-hand {
+  color: green;
+}
+.Losing-hand {
+  color: red;
+}
